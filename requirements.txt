@@ -1,0 +1,11 @@
+Flask
+SQLAlchemy
+OpenAI
+pandas
+openpyxl
+requests
+flask-cors
+
+
+flask-sqlalchemy
+
